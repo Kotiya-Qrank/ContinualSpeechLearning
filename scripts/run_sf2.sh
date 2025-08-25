@@ -1,0 +1,6 @@
+CUDA_VISIBLE_DEVICES=0 python whisper_finetune_cl.py>>/datanfs2/wgt/TransformersWhisper/logs2/FS-1-KS-SID-ER-IC-SF_lr1e-4.log  --name FS-1-KS-SID-ER-IC-SF_lr1e-4  --task NONE  --temperature 1  --dataset continual_task/KS-SID-ER-IC-SF  --freeze_weights True  --base_model /datanfs2/wgt/TransformersWhisper/output2/whisper-base/FS-1-KS-SID-ER-IC  --learning_rate 1e-4
+CUDA_VISIBLE_DEVICES=0 python whisper_infer.py  --name FS-1-KS-SID-ER-IC-SF_lr1e-4  --task SF  --temperature 1
+CUDA_VISIBLE_DEVICES=0 python whisper_infer.py  --name FS-1-KS-SID-ER-IC-SF_lr1e-4  --test_path data/fluent/test.json  --task IC  --temperature 1
+CUDA_VISIBLE_DEVICES=0 python whisper_infer.py  --name FS-1-KS-SID-ER-IC-SF_lr1e-4  --test_path data/IEMOCAP/test.json  --task ER  --temperature 1
+CUDA_VISIBLE_DEVICES=0 python whisper_infer.py  --name FS-1-KS-SID-ER-IC-SF_lr1e-4  --test_path data/VoxCeleb1_top10/test.json  --task SID  --temperature 1
+CUDA_VISIBLE_DEVICES=0 python whisper_infer.py  --name FS-1-KS-SID-ER-IC-SF_lr1e-4  --test_path data/speech_commands/test.json  --task KS  --temperature 1

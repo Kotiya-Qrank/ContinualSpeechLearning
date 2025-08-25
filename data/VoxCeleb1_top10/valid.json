@@ -1,0 +1,308 @@
+[
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10020/H_NA9yw_kVE/00002.wav"
+        },
+        "sentence": "<|speaker19|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10020/H_NA9yw_kVE/00001.wav"
+        },
+        "sentence": "<|speaker19|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10020/H_NA9yw_kVE/00005.wav"
+        },
+        "sentence": "<|speaker19|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10020/H_NA9yw_kVE/00004.wav"
+        },
+        "sentence": "<|speaker19|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10020/H_NA9yw_kVE/00003.wav"
+        },
+        "sentence": "<|speaker19|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10096/gCXY29GK-W4/00002.wav"
+        },
+        "sentence": "<|speaker95|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10096/gCXY29GK-W4/00003.wav"
+        },
+        "sentence": "<|speaker95|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10096/gCXY29GK-W4/00005.wav"
+        },
+        "sentence": "<|speaker95|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10096/gCXY29GK-W4/00001.wav"
+        },
+        "sentence": "<|speaker95|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10096/gCXY29GK-W4/00004.wav"
+        },
+        "sentence": "<|speaker95|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10203/5GE1PTjS3Qo/00002.wav"
+        },
+        "sentence": "<|speaker202|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10203/5GE1PTjS3Qo/00005.wav"
+        },
+        "sentence": "<|speaker202|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10203/5GE1PTjS3Qo/00004.wav"
+        },
+        "sentence": "<|speaker202|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10203/5GE1PTjS3Qo/00001.wav"
+        },
+        "sentence": "<|speaker202|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10203/5GE1PTjS3Qo/00003.wav"
+        },
+        "sentence": "<|speaker202|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10397/5dvhUGPLjzc/00004.wav"
+        },
+        "sentence": "<|speaker396|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10397/5dvhUGPLjzc/00002.wav"
+        },
+        "sentence": "<|speaker396|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10397/5dvhUGPLjzc/00001.wav"
+        },
+        "sentence": "<|speaker396|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10397/5dvhUGPLjzc/00005.wav"
+        },
+        "sentence": "<|speaker396|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10397/5dvhUGPLjzc/00003.wav"
+        },
+        "sentence": "<|speaker396|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10710/MFOkBnYGfIM/00003.wav"
+        },
+        "sentence": "<|speaker709|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10710/MFOkBnYGfIM/00005.wav"
+        },
+        "sentence": "<|speaker709|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10710/MFOkBnYGfIM/00001.wav"
+        },
+        "sentence": "<|speaker709|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10710/MFOkBnYGfIM/00002.wav"
+        },
+        "sentence": "<|speaker709|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10710/MFOkBnYGfIM/00004.wav"
+        },
+        "sentence": "<|speaker709|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10935/xKlVOcLdtjs/00004.wav"
+        },
+        "sentence": "<|speaker934|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10935/xKlVOcLdtjs/00006.wav"
+        },
+        "sentence": "<|speaker934|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10935/xKlVOcLdtjs/00002.wav"
+        },
+        "sentence": "<|speaker934|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10935/xKlVOcLdtjs/00003.wav"
+        },
+        "sentence": "<|speaker934|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10935/xKlVOcLdtjs/00005.wav"
+        },
+        "sentence": "<|speaker934|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10935/xKlVOcLdtjs/00001.wav"
+        },
+        "sentence": "<|speaker934|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10945/foRhVd7id9s/00002.wav"
+        },
+        "sentence": "<|speaker944|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10945/foRhVd7id9s/00004.wav"
+        },
+        "sentence": "<|speaker944|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10945/foRhVd7id9s/00001.wav"
+        },
+        "sentence": "<|speaker944|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10945/foRhVd7id9s/00005.wav"
+        },
+        "sentence": "<|speaker944|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10945/foRhVd7id9s/00003.wav"
+        },
+        "sentence": "<|speaker944|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10986/79oWAvMcAm0/00001.wav"
+        },
+        "sentence": "<|speaker985|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10986/79oWAvMcAm0/00004.wav"
+        },
+        "sentence": "<|speaker985|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10986/79oWAvMcAm0/00005.wav"
+        },
+        "sentence": "<|speaker985|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10986/79oWAvMcAm0/00003.wav"
+        },
+        "sentence": "<|speaker985|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id10986/79oWAvMcAm0/00002.wav"
+        },
+        "sentence": "<|speaker985|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11111/pPn_oazMjh0/00002.wav"
+        },
+        "sentence": "<|speaker1110|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11111/pPn_oazMjh0/00005.wav"
+        },
+        "sentence": "<|speaker1110|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11111/pPn_oazMjh0/00001.wav"
+        },
+        "sentence": "<|speaker1110|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11111/pPn_oazMjh0/00004.wav"
+        },
+        "sentence": "<|speaker1110|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11111/pPn_oazMjh0/00003.wav"
+        },
+        "sentence": "<|speaker1110|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11211/6mnL46vX6NY/00001.wav"
+        },
+        "sentence": "<|speaker1210|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11211/6mnL46vX6NY/00003.wav"
+        },
+        "sentence": "<|speaker1210|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11211/6mnL46vX6NY/00002.wav"
+        },
+        "sentence": "<|speaker1210|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11211/6mnL46vX6NY/00005.wav"
+        },
+        "sentence": "<|speaker1210|>"
+    },
+    {
+        "audio": {
+            "path": "/data1/wgt/TransformersWhisper/data/VoxCeleb1/dev/wav/id11211/6mnL46vX6NY/00004.wav"
+        },
+        "sentence": "<|speaker1210|>"
+    }
+]
